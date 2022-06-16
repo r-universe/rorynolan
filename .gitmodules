@@ -3,3 +3,33 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "autothresholdr"]
+	path = autothresholdr
+	url = https://github.com/rorynolan/autothresholdr
+	shallow = true
+	registered = true
+[submodule "detrendr"]
+	path = detrendr
+	url = https://github.com/rorynolan/detrendr
+	shallow = true
+	registered = true
+[submodule "exampletestr"]
+	path = exampletestr
+	url = https://github.com/rorynolan/exampletestr
+	shallow = true
+	registered = true
+[submodule "filesstrings"]
+	path = filesstrings
+	url = https://github.com/rorynolan/filesstrings
+	shallow = true
+	registered = true
+[submodule "nandb"]
+	path = nandb
+	url = https://github.com/rorynolan/nandb
+	shallow = true
+	registered = true
+[submodule "strex"]
+	path = strex
+	url = https://github.com/rorynolan/strex
+	shallow = true
+	registered = true

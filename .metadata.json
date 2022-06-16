@@ -1,0 +1,26 @@
+[
+  {
+    "package": "autothresholdr",
+    "oncran": true
+  },
+  {
+    "package": "detrendr",
+    "oncran": true
+  },
+  {
+    "package": "exampletestr",
+    "oncran": true
+  },
+  {
+    "package": "filesstrings",
+    "oncran": true
+  },
+  {
+    "package": "nandb",
+    "oncran": true
+  },
+  {
+    "package": "strex",
+    "oncran": true
+  }
+]
