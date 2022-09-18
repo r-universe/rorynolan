@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "filesstrings",
-    "oncran": true
-  },
-  {
     "package": "nandb",
     "oncran": true
   },

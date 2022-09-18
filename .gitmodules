@@ -18,11 +18,6 @@
 	url = https://github.com/rorynolan/exampletestr
 	shallow = true
 	registered = true
-[submodule "filesstrings"]
-	path = filesstrings
-	url = https://github.com/rorynolan/filesstrings
-	shallow = true
-	registered = true
 [submodule "nandb"]
 	path = nandb
 	url = https://github.com/rorynolan/nandb
