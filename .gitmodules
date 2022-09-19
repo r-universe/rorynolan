@@ -8,6 +8,11 @@
 	url = https://github.com/rorynolan/autothresholdr
 	shallow = true
 	registered = true
+[submodule "detrendr"]
+	path = detrendr
+	url = https://github.com/rorynolan/detrendr
+	shallow = true
+	registered = true
 [submodule "exampletestr"]
 	path = exampletestr
 	url = https://github.com/rorynolan/exampletestr

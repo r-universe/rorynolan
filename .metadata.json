@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "detrendr",
+    "oncran": true
+  },
+  {
     "package": "exampletestr",
     "oncran": true
   },
