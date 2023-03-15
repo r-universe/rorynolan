@@ -1,18 +1,14 @@
 [
   {
-    "package": "detrendr",
-    "oncran": true
-  },
-  {
     "package": "autothresholdr",
     "oncran": true
   },
   {
-    "package": "strex",
+    "package": "detrendr",
     "oncran": true
   },
   {
-    "package": "nandb",
+    "package": "exampletestr",
     "oncran": true
   },
   {
@@ -20,7 +16,11 @@
     "oncran": true
   },
   {
-    "package": "exampletestr",
+    "package": "nandb",
+    "oncran": true
+  },
+  {
+    "package": "strex",
     "oncran": true
   }
 ]
